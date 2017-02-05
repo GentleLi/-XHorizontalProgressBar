@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XHorizontalProgressBar">
+        <attr name="backgroundColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="valueTextColor" format="color" />
+        <attr name="isRoundRect" format="boolean" />
+        <attr name="radius" format="dimension" />
+        <attr name="showTextProgress" format="boolean" />
+    </declare-styleable>
+</resources>
